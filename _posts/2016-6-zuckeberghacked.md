@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OOP
-published: true
 ---
 MARK ZUCKERBERG HACKED
 
