@@ -1,10 +1,10 @@
 
 ---
 layout: post
-title: Principles Object Oriented Programming
+title: how-Browsers-Work
 published: true
 ---
-how-Browsers-Work
+
 
 a **web browser** is computer program desplaying web pages and websites.The major function of a browser is to
 
