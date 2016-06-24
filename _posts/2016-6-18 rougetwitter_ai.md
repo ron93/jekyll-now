@@ -2,13 +2,13 @@
 
 layout: post
 
-title: Chrome Developer Tools
+title: ROGUE AI
 
 published: true
 
 ---
 
-#ROUGE AI
+
 
 Microsoft’s millennial artificial intelligence named Tay is down for “upgrades” after a bigoted Twitter rampage Wednesday.&lt;br&gt;
 
