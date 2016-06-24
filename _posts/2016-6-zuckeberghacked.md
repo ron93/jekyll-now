@@ -3,9 +3,7 @@ layout: post
 title: OOP
 published: true
 ---
-
-
-#MARK ZUCKERBERG HACKED
+MARK ZUCKERBERG HACKED
 
 There are several lessons to be learned from a data breach in which hackers gained access to Mark Zuckerbergâs social media accounts, but chief among them is probably this: Quit using the same password for multiple websites.
 
@@ -48,3 +46,4 @@ Troy Hunt, an online security expert and the creator of Have I Been Pwned?, reit
 Without this, we risk exposing sensitive data in a way that it can put other accounts at risk, particularly via a data breach of one site, which is becoming an alarmingly common occurrence,â€ he said.
 
 In a statement to its users on Monday, LinkedIn echoed the suggested tactics: All members should take care to manage and change passwords across other sites, avoid reuse, leverage advanced security features, and update often.
+
