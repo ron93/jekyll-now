@@ -4,7 +4,6 @@ layout: post
 
 title: ROGUE AI
 
-published: true
 
 ---
 
