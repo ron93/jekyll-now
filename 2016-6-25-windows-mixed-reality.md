@@ -7,8 +7,7 @@ title: WINDOWS OPEN TO MIXED REALITY
 
 
  
-
- Microsoft is out to use Windows software to do for altered reality what it did for personal computers: make them commonplace.
+Microsoft is out to use Windows software to do for altered reality what it did for personal computers: make them commonplace.
 
                 &lt;br&gt; The US technology giant on Wednesday announced that Windows software already powering a wide range of devices including HoloLens augmented reality headgear is being opened to partners interested in building devices for "mixed reality" experiences.
 
@@ -28,7 +27,8 @@ title: WINDOWS OPEN TO MIXED REALITY
 
             While virtual reality devices such as those from Facebook-owned Oculus and Sony's PlayStation unit immerse users in fantasy worlds, HoloLens "augments" reality by overlaying holograms on the real world in view.&lt;br&gt;
 
-<<<<<<< HEAD:_posts/2016-6-windows mixed reality
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:_posts/2016-6-windows mixed reality
+
             HoloLens lets users interact with virtual objects using hand gestures.
 
             Microsoft would not disclose details regarding how it will make money from the move. But it is expected to pursue the kinds of licensing deals it negotiates with companies that make Windows-powered computers.
@@ -44,6 +44,9 @@ title: WINDOWS OPEN TO MIXED REALITY
             The holographic capabilities in the Microsoft gear can open doors for developers to augment tasks from complex surgery to motorcycle design, according to the company.
 
             Marketers predict virtual headsets will soon top wish lists for kids and young adults from Silicon Valley to Hong Kong. But some analysts say virtual reality will be eclipsed by augmented reality within a few years.
+
 =======
-            Marketers predict virtual headsets will soon top wish lists for kids and young adults from Silicon Valley to Hong Kong. But some analysts say virtual reality will be eclipsed by augmented reality within a few years.
->>>>>>> 3108e6ddc5727137a1c2722ad2dde50ae96054f1:_posts/2016-6-windows mixed reality.md
+
+            Marketers predict virtual headsets will soon top wish lists for kids and young adults from Silicon Valley to Hong Kong. But some analysts say virtual reality will be eclipsed by augmented reality within a few years.
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 3108e6ddc5727137a1c2722ad2dde50ae96054f1:_posts/2016-6-windows mixed reality.md
