@@ -1,7 +1,6 @@
 ---
 layout: post
 title: WINDOWS OPEN TO MIXED REALITY
-published: true
 ---
 
 
