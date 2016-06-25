@@ -2,12 +2,7 @@
 layout: post
 title: WINDOWS OPEN TO MIXED REALITY
 ---
-
-
-
-
- 
-Microsoft is out to use Windows software to do for altered reality what it did for personal computers: make them commonplace.
+ Microsoft is out to use Windows software to do for altered reality what it did for personal computers: make them commonplace.
 
                 &lt;br&gt; The US technology giant on Wednesday announced that Windows software already powering a wide range of devices including HoloLens augmented reality headgear is being opened to partners interested in building devices for "mixed reality" experiences.
 
