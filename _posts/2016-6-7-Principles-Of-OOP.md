@@ -7,7 +7,9 @@ published: true
 The four major principles that make the language object oriented are _Encapsulation, Data Abstraction,
 Polymorphism and Inheritence._
 
+
 #Encapsulation
+
 
 This is also known as data hidding.Its the mechanism whereby the inner workings of the class are kept hidden from the rest of the program.
 This is accomplished by limiting access to *accessors* and *mutators*:
