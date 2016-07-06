@@ -28,6 +28,7 @@ public int getStudentsgrade{
 
 }
 public void setTotalnumber{
+Totalnumer = 40;
 
 }
 
