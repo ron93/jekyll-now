@@ -17,7 +17,7 @@ Getter method gets values of a variable and allows acopy of the field to be retu
 A setter method sets values of a variable _(mutator)_.It validates input.
 
 ####getter and setter method in action:
-```java
+~~java
 
 private class Students
 {
@@ -28,10 +28,16 @@ public int getStudentsgrade{
  return Studentsgrade;
 
 }
-public void setTotalnumber{
+public int getTotalnumber{
+return Totalnumber;
+}
+public void int setTotalnumber{
 Totalnumer = 40;
 
 }
+public void int setStudentsgrade{
+
+}
 }
 
-```
+~~~
