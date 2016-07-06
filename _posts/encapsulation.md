@@ -12,3 +12,11 @@ This are methods used to ask an object about itself.This is done by using the _g
 
 ##Mutators
 Public methods used to modify an object while hidding the data modification process.This is done by using the _se method_
+
+##getters and setters methods.
+Getter method gets values of a variable and allows acopy of the field to be returned_(accessors)_.
+A setter method sets values of a variable _(mutator)_.It validates input.
+
+####getter and setter method in action:
+
+
