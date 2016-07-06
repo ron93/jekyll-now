@@ -31,13 +31,20 @@ public int getStudentsgrade{
 public int getTotalnumber{
 return Totalnumber;
 }
-public void int setTotalnumber{
-Totalnumer = 40;
+public void setTotalnumber(int newTotalnumber){
+Totalnumer = newTotalnumber;
 
 }
-public void int setStudentsgrade{
-
+public void setStudentsgrade(int newStudentsgrade){
+studentsgrade= newStudentsgrade;
 }
 }
 
+~~~
+
+
+~~~java
+public void main(string[]args){
+
+}
 ~~~
