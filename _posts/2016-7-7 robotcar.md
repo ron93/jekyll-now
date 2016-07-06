@@ -12,7 +12,7 @@ BMW said it hoped the collaboration would mean it could put robot cars into prod
 
 The research partnership was announced on the day when [US officials begin an investigation into a fatal car crash](http://www.bbc.co.uk/news/technology-36680043) involving a Tesla Model S, to which self-driving technology could have contributed.
 
-### Plugged in
+###Plugged in
 
 BMW said the trio would develop computer and sensor systems that gradually reduce the part humans play in driving a car. Ultimately, it said, it hoped to produce vehicles that could operate entirely autonomously without any people onboard.
 

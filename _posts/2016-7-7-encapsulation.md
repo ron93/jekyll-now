@@ -20,6 +20,7 @@ A setter method sets values of a variable _(mutator)_.It validates input.
 ####getter and setter method in action:
 
 ~~~java
+
 private int Totalnumber;
 private int Studentsgrade;
 
